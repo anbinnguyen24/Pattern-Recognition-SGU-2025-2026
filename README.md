@@ -23,7 +23,8 @@
 ---
 
 ## ĐỀ TÀI CUỐI KÌ
-
+- Chưa chọn
+---
 ## TÀI LIỆU THAM KHẢO
 > *2024 - Vijaya Kumar Suda - Data Labeling in Machine Learning with Python (Packt)*  
 
