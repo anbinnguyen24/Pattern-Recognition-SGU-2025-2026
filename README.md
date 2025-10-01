@@ -8,9 +8,11 @@
 * [Tài liệu tham khảo](#technologies-used)
 
 ## THÀNH VIÊN
-- 3122410004 - Nguyễn Văn An - (nhóm trưởng)
-- 3122410294 - Lý Minh Phát
-- 3122410247 - Lê Quốc Nam
+| MSSV | Họ tên | Nhóm trưởng |
+|------|-----------------|------|
+| 3122410004 |  Nguyễn Văn An  | ✅ |
+| 3122410294 |  Lý Minh Phát  | ... |
+| 3122410247 |  Lê Quốc Nam  | ... |
 
 ## ĐỀ TÀI SEMINAR
 # Trình bày nội dung của cuốn sách được phân công:
