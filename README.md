@@ -5,11 +5,17 @@
 * [Thành viên nhóm](#thành-viên)
 * [Đề tài của seminar](#technologies-used)
 * [Đề tài của project](#technologies-used)
+* [Tài liệu tham khảo](#technologies-used)
 
-
-# THÀNH VIÊN
+## THÀNH VIÊN
 - 3122410004 - Nguyễn Văn An - (nhóm trưởng)
 - 3122410294 - Lý Minh Phát
 - 3122410247 - Lê Quốc Nam
 
+## ĐỀ TÀI SEMINAR
+
+
+## ĐỀ TÀI CUỐI KÌ
+
+## TÀI LIỆU THAM KHẢO
   
