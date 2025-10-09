@@ -17,7 +17,11 @@
 ---
 
 ## PHÂN CÔNG
-
+| MSSV | Họ tên | Công việc phân công | Trạng thái |
+|------|-----------------|-------------------|-----------|
+| 3122410004 |  Nguyễn Văn An  | Chapter 12: Hands-On Exploring Data Labelling Tools   | ... |
+| 3122410294 |  Lý Minh Phát  | Chapter 12: Hands-On Exploring Data Labelling Tools  | ... |
+| 3122410247 |  Lê Quốc Nam  | Chapter 7: Labeling Text Data  | ... |
 
 ## 📖 Tài liệu tham khảo
 > *2024 - Vijaya Kumar Suda - Data Labeling in Machine Learning with Python (Packt)*  
