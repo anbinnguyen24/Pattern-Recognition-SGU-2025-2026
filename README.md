@@ -3,6 +3,7 @@
 
 ## Table of Contents
 * [Thành viên nhóm](#-thành-viên)
+* [Cau truc thu muc](#-đề-tài-cuối-kì)
 * [Đề tài của seminar](#-đề-tài-seminar)
 * [Đề tài của project](#-đề-tài-cuối-kì)
 * [Tài liệu tham khảo](#-tài-liệu-tham-khảo)
