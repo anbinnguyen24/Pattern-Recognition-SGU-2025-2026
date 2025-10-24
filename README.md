@@ -25,6 +25,7 @@ Trình bày nội dung của cuốn sách được phân công:
 
 ## 🎯 ĐỀ TÀI CUỐI KÌ
 - Xây dựng hệ thống nhận diện cảm xúc trên khuôn mặt
+- Triển khai mô hình để ra sản phẩm sử dụng
 
 ## 📖 TÀI LIỆU THAM KHẢO
 > *2024 - Vijaya Kumar Suda - Data Labeling in Machine Learning with Python (Packt)*  
