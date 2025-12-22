@@ -1,0 +1,12 @@
+av>=16.0.1
+fastapi
+python-multipart
+uvicorn
+numpy<2.3.0
+opencv-python-headless
+Pillow
+requests
+streamlit
+streamlit-webrtc
+tensorflow-cpu
+ultralytics
