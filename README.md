@@ -3,10 +3,37 @@
 
 ## Table of Contents
 * [Thành viên nhóm](#-thành-viên)
-* [Cau truc thu muc](#-đề-tài-cuối-kì)
+* [Cấu trúc thư mục](#-cấu-trúc-thư-mục)
 * [Đề tài của seminar](#-đề-tài-seminar)
 * [Đề tài của project](#-đề-tài-cuối-kì)
 * [Tài liệu tham khảo](#-tài-liệu-tham-khảo)
+
+## 📁 CẤU TRÚC THƯ MỤC
+```text
+Pattern-Recognition-SGU-2025-2026/
+├─ FinalProject/
+│  ├─ CNN_Deep/
+|  ├─ CNN_Deep3_Augmentation/
+|  ├─ CNN_Deep3_Augmentation_Balanced/
+|  ├─ CNN_Deep_2/
+|  ├─ CNN_Deep_3/
+|  ├─ CNN_baseline/
+|  ├─ EfficientNetB0_Balanced/
+|  ├─ EfficientNetB0_baseline/
+|  ├─ test-app/
+|  ├─ Assignment_report.docx
+|  ├─ Assignment_report.pdf
+|  ├─ Evaluation_Best_Model.ipynb
+|  ├─ Facial Expression Recognition.pptx
+|  └─ README.txt
+├─ Seminar/
+│  ├─ Seminar_Pattern_Recognition.pptx
+│  └─ README.md
+├─ .gitattributes
+├─ .gitignore
+└─ README.md
+```
+
 
 ## 👥 THÀNH VIÊN
 | MSSV | Họ tên | Nhóm trưởng |
