@@ -55,6 +55,24 @@ Trình bày nội dung của cuốn sách được phân công:
 - Triển khai mô hình để ra sản phẩm sử dụng
 
 ## 📖 TÀI LIỆU THAM KHẢO
-> *2024 - Vijaya Kumar Suda - Data Labeling in Machine Learning with Python (Packt)*  
+> 1. *2024 - Vijaya Kumar Suda - Data Labeling in Machine Learning with Python (Packt)*  
+>  
+> 2. Shuvo Alok, *RAF-DB Dataset*, Kaggle Dataset, 2020.  
+> Available: https://www.kaggle.com/datasets/shuvoalok/raf-db-dataset  
+>
+> 3. Shuvo Alok, *Facial Emotion Recognition*, Kaggle Notebook, 2020.  
+> Available: https://www.kaggle.com/code/shuvoalok/facial-emotion-recognition  
+>
+> 4. Dhaouadi Ibtihel, *RAF-DB Facial Expression Recognition using SVM, CNN and Transfer Learning*,  
+> Kaggle Notebook, 2021.  
+> Available: https://www.kaggle.com/code/dhaouadiibtihel98/raf-db-facial-expression-recognition-svm-cnn-tl  
+>
+> 5. YapaLab, *YOLO-Face: A Face Detection System Based on YOLO*,  
+> GitHub Repository, 2019.  
+> Available: https://github.com/YapaLab/yolo-face  
+>
+> 6. Prudhvi GNV, *Facial Emotion Recognition using Convolutional Neural Networks*,  
+> GitHub Repository, 2020.  
+> Available: https://github.com/PrudhviGNV/Facial-Emotion-Recognition-using-CNN
 
 ---
